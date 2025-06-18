@@ -48,20 +48,20 @@ Follow these steps to set up your 8BitDo M30 Bluetooth gamepad for Retroarch on 
 
    3.3 Set binding as following:
 
-| RetroArch Key                 | Hardware Key    |
-|:-----------------------------:|:---------------:|
-|![up](./images/d-up.png)       |<kbd>Up</kbd>    |
-|![down](./images/d-down.png)   |<kbd>Down</kbd>  |
-|![left](./images/d-left.png)   |<kbd>Left</kbd>  |
-|![right](./images/d-right.png) |<kbd>Right</kbd> |
-|![a](./images/a.png)           |<kbd>C</kbd>     |
-|![b](./images/b.png)           |<kbd>B</kbd>     |
-|![x](./images/x.png)           |<kbd>Y</kbd>     |
-|![y](./images/y.png)           |<kbd>A</kbd>     |
-|![select](./images/select.png) |<kbd>Select</kbd>|
-|![select](./images/start.png)  |<kbd>Start</kbd> |
-|![l](./images/l.png)           |<kbd>X</kbd>     |
-|![r](./images/l.png)           |<kbd>Z</kbd>     |
+| | RetroArch Key | Hardware Key |
+|:----:|:-------------:|:------------:|
+| <img src="./images/input_DPAD-U.png" height="64"> | D-Pad Up |<kbd>Up</kbd> |
+| <img src="./images/input_DPAD-D.png" height="64"> | D-Pad Down |<kbd>Down</kbd> |
+| <img src="./images/input_DPAD-L.png" height="64"> | D-Pad Left |<kbd>Left</kbd>  |
+| <img src="./images/input_DPAD-R.png" height="64"> | D-Pad Right |<kbd>Right</kbd> |
+| <img src="./images/input_BTN-R.png" height="64"> | A Button (Right) | <kbd>C</kbd> |
+| <img src="./images/input_BTN-D.png" height="64"> | B Button (Down) | <kbd>B</kbd> |
+| <img src="./images/input_BTN-U.png" height="64"> | X Button (Top) | <kbd>Y</kbd> |
+| <img src="./images/input_BTN-L.png" height="64"> | Y Button (Left) | <kbd>A</kbd> |
+| <img src="./images/input_SELECT.png" height="64"> | Select Button | <kbd>Select</kbd>|
+| <img src="./images/input_START.png" height="64"> | Start Button | <kbd>Start</kbd> |
+| <img src="./images/input_LB.png" height="64"> | L Button (Shoulder) |<kbd>X</kbd> |
+| <img src="./images/input_RB.png" height="64"> | R Button (Shoulder) |<kbd>Z</kbd> |
 
 ## 🔫 Troubleshooting
 
